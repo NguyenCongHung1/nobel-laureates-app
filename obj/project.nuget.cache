@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5FJVhxIMKA=",
+  "success": true,
+  "projectFilePath": "D:\\TestCode\\NobelLaureatesApp\\NobelLaureatesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiet\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.5\\microsoft.extensions.caching.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\thiet\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.5\\microsoft.extensions.caching.memory.10.0.5.nupkg.sha512",
+    "C:\\Users\\thiet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\thiet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\thiet\\.nuget\\packages\\microsoft.extensions.options\\10.0.5\\microsoft.extensions.options.10.0.5.nupkg.sha512",
+    "C:\\Users\\thiet\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512",
+    "C:\\Users\\thiet\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\thiet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.5\\system.diagnostics.diagnosticsource.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
