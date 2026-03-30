@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NobelLaureatesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d1739dfa6f449b68f42d9bd8e29c848aa73c5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NobelLaureatesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NobelLaureatesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
